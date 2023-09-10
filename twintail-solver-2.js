@@ -81,7 +81,6 @@ function solve() {
             clearInterval(id);
         }
     }, 1);
-    
 }
 
 solve();
